@@ -1,0 +1,19 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ThinkCraft.AI Logo">
+  <defs>
+    <linearGradient id="purpleWithPink50" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5044e5" />
+      <stop offset="50%" stop-color="#5044e5" />
+      <stop offset="100%" stop-color="rgb(229, 73, 163)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Filled part -->
+  <text x="50" y="65" font-family="Segoe UI, sans-serif" font-size="48" font-weight="bold" fill="url(#purpleWithPink50)">
+    ThinkCraft.
+  </text>
+
+  <!-- Outlined AI -->
+  <text x="308" y="65" font-family="Segoe UI, sans-serif" font-size="48" font-weight="bold" fill="none" stroke="url(#purpleWithPink50)" stroke-width="2">
+    AI
+  </text>
+</svg>
